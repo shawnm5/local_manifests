@@ -26,6 +26,18 @@
    revision="cm-14.0"
   />
   <project
+   name="android_device_samsung_milletwifi"
+   path="device/samsung/milletwifi"
+   remote="sub"
+   revision="cm-14.0"
+  />
+  <project
+   name="android_device_samsung_millet-common"
+   path="device/samsung/matisse-millet"
+   remote="sub"
+   revision="cm-14.0"
+  />
+  <project
    name="android_device_samsung_msm8226-common"
    path="device/samsung/msm8226-common"
    remote="sub"
@@ -63,6 +75,18 @@
    remote="sub"
    revision="cm-14.0"
   />
+  <project
+   name="android_vendor_samsung_milletwifi"
+   path="vendor/samsung/milletwifi"
+   remote="sub"
+   revision="cm-14.0"
+  />
+  <project
+   name="android_vendor_samsung_millet-common"
+   path="vendor/samsung/millet-common"
+   remote="sub"
+   revision="cm-14.0"
+  />
   <!-- Misc -->
   <project
    name="CyanogenMod/android_device_samsung_qcom-common"
@@ -73,6 +97,12 @@
   <project
    name="CyanogenMod/android_device_qcom_common"
    path="device/qcom/common"
+   remote="github"
+   revision="cm-14.0"
+  />
+  <project
+   name="CyanogenMod/android_hardware_samsung"
+   path="hardware/samsung"
    remote="github"
    revision="cm-14.0"
   />
