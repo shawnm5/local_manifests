@@ -4,106 +4,76 @@
   <project
    name="android_device_samsung_matissewifi"
    path="device/samsung/matissewifi"
-   remote="sub"
-   revision="cm-14.0"
-  />
-  <project
-   name="android_device_samsung_matisse3g"
-   path="device/samsung/matisse3g"
-   remote="sub"
-   revision="cm-14.0"
+   remote="shawnm5"
+   revision="cm-14.1"
   />
   <project
    name="android_device_samsung_matisselte"
    path="device/samsung/matisselte"
-   remote="sub"
-   revision="cm-14.0"
+   remote="shawnm5"
+   revision="cm-14.1"
   />
   <project
    name="android_device_samsung_matisse-common"
    path="device/samsung/matisse-common"
-   remote="sub"
-   revision="cm-14.0"
-  />
-  <project
-   name="android_device_samsung_milletwifi"
-   path="device/samsung/milletwifi"
-   remote="sub"
-   revision="cm-14.0"
-  />
-  <project
-   name="android_device_samsung_millet-common"
-   path="device/samsung/matisse-millet"
-   remote="sub"
-   revision="cm-14.0"
+   remote="shawnm5"
+   revision="cm-14.1"
   />
   <project
    name="android_device_samsung_msm8226-common"
    path="device/samsung/msm8226-common"
-   remote="sub"
-   revision="cm-14.0"
+   remote="shawnm5"
+   revision="cm-14.1"
   />
   <!-- Kernel -->
   <project
    name="android_kernel_samsung_msm8226"
    path="kernel/samsung/msm8226"
-   remote="sub"
-   revision="cm-14.0"
+   remote="shawnm5"
+   revision="cm-14.1"
   />
   <!-- Vendor -->
   <project
    name="android_vendor_samsung_matissewifi"
    path="vendor/samsung/matissewifi"
-   remote="sub"
-   revision="cm-14.0"
+   remote="shawnm5"
+   revision="cm-14.1"
   />
   <project
    name="android_vendor_samsung_matisse3g"
    path="vendor/samsung/matisse3g"
-   remote="sub"
-   revision="cm-14.0"
+   remote="shawnm5"
+   revision="cm-14.1"
   />
   <project
    name="android_vendor_samsung_matisselte"
    path="vendor/samsung/matisselte"
-   remote="sub"
-   revision="cm-14.0"
+   remote="shawnm5"
+   revision="cm-14.1"
   />
   <project
    name="android_vendor_samsung_matisse-common"
    path="vendor/samsung/matisse-common"
-   remote="sub"
-   revision="cm-14.0"
-  />
-  <project
-   name="android_vendor_samsung_milletwifi"
-   path="vendor/samsung/milletwifi"
-   remote="sub"
-   revision="cm-14.0"
-  />
-  <project
-   name="android_vendor_samsung_millet-common"
-   path="vendor/samsung/millet-common"
-   remote="sub"
-   revision="cm-14.0"
+   remote="shawnm5"
+   revision="cm-14.1"
   />
   <!-- Misc -->
   <project
-   name="CyanogenMod/android_device_samsung_qcom-common"
+   name="LineageOS/android_device_samsung_qcom-common"
    path="device/samsung/qcom-common"
    remote="github"
-   revision="cm-14.0"
+   revision="cm-14.1"
   />
   <project
-   name="CyanogenMod/android_device_qcom_common"
+   name="LineageOS/android_device_qcom_common"
    path="device/qcom/common"
    remote="github"
-   revision="cm-14.0"
+   revision="cm-14.1"
   />
   <project
-   name="CyanogenMod/android_hardware_samsung"
+   name="LineageOS/android_hardware_samsung"
    path="hardware/samsung"
    remote="github"
-   revision="cm-14.0"
+   revision="cm-14.1"
   />
 </manifest>

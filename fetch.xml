@@ -4,4 +4,8 @@
 	name="sub"
 	fetch="ssh://git@github.com/sub77-cm14/"
  />
+ <remote
+	name="shawnm5"
+	fetch="ssh://git@github.com/shawnm5/"
+ />
 </manifest>
