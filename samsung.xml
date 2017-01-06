@@ -76,4 +76,10 @@
    remote="github"
    revision="cm-14.1"
   />
+  <project
+   name="TheMuppets/proprietary_vendor_qcom_binaries"
+   path="vendor/qcom/binaries"
+   remote="github"
+   revision="cm-14.1"
+  />
 </manifest>
