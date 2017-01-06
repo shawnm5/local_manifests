@@ -6,6 +6,6 @@
  />
  <remote
 	name="shawnm5"
-	fetch="ssh://git@github.com/shawnm5/"
+	fetch="https://github.com/shawnm5/"
  />
 </manifest>
