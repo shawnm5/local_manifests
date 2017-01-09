@@ -58,6 +58,7 @@
    revision="cm-14.1"
   />
 <<<<<<< HEAD
+<<<<<<< HEAD
   <project
    name="vendor_qcom_binaries_msm8226"
    path="vendor/qcom/binaries/msm8226"
@@ -70,6 +71,8 @@
    remote="shawnm5"
    revision="cm-14.1"
   />
+=======
+>>>>>>> parent of 4c139ca... add vendor_qcom_binaries_msm8226
 =======
 >>>>>>> parent of 4c139ca... add vendor_qcom_binaries_msm8226
   <!-- Misc -->
